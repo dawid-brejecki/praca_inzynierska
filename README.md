@@ -3,7 +3,7 @@
 ## Informacje
 Repezytorium jest poswiecone mojej pracy inzynierskiej wykonanej w 2018 roku. Celem pracy bylo wykonanie programu w jezyku Python, z interfejsem graficznym,
 ktory wyodrebnial i wykonywal wykres fali akustycznej na podstawie zarejestrowanych przebiegow (zapisanych w .csv), obliczal jej parametry oraz umozliwial
-wyeksportowanie obliczonych parametrow do bazy danych.
+wyeksportowanie obliczonych parametrow do bazy danych. Interfejs graficzny zostal wykonany z wykorzystaniem biblioteki tkinter.
 
 ## Przykladowe dzialanie programu
 ![Zrzut](plik.jpeg)
